@@ -1,1 +1,1 @@
-room_goto(lost);
+room_goto(Room1);
